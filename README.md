@@ -1,4 +1,4 @@
-# CS50x and CS50P Journey
+# CS50 Journey
 
 ## Overview
 This repository documents my journey through Harvard University's CS50x and CS50P courses. 
